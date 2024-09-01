@@ -1,5 +1,5 @@
-👋 Hi, I'm Bassam!
-I am currently an Analytics Engineer with a passion for turning data into actionable insights. I hold a Microsoft Certified: Power BI Data Analyst Associate certification, and I am currently preparing for the AWS Cloud Practitioner certification to further enhance my skill set.
+## 👋 Hi, I'm Bassam!
+I am currently an Analytics Engineer with a passion for turning data into actionable insights. I hold a [Microsoft Certified: Power BI Data Analyst Associate certification](https://learn.microsoft.com/api/credentials/share/fr-fr/BassamBenidir-2112/D4B4DAC6B147E977?sharingId), and I am currently preparing for the **AWS Cloud Practitioner certification** to further enhance my Cloud Computing skills.
 
 👀 Outside of work I enjoy
 🏋️‍♂️ Calisthenics and Street Lifting: I love challenging myself with bodyweight exercises and pushing my limits in street lifting.
