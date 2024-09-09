@@ -57,12 +57,3 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
   </table>
 </div>
 
-
-<div align="center">
-  
-### GitHub Activity
-
-[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Highashikata&theme=radical&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
-
