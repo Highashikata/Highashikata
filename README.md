@@ -16,4 +16,36 @@ I am currently an Analytics Engineer with a passion for turning data into action
 LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
 
 
+<div align="center">
+
 [![Bassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Highashikata&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+  <h3>My Tech Stack</h3>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+        <br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+        <br>Linux
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" />
+        <br>SQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
+        <br>Power BI
+      </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+    </tr>
+  </table>
+</div>
