@@ -17,12 +17,6 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
 
 
 <div align="center">
-
-[![Bassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Highashikata&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
-<div align="center">
   <h3>My Tech Stack</h3>
   <table>
     <tr>
@@ -39,12 +33,16 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
         <br>SQL
       </td>
       <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
+        <br>AWS
+      </td>
+      <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
         <br>Power BI
       </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-        <br>AWS
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+        <br>Git
       </td>
     </tr>
   </table>
