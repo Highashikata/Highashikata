@@ -14,3 +14,6 @@ I am currently an Analytics Engineer with a passion for turning data into action
 
 📫 How to reach me
 LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
+
+
+[![Bassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Highashikatar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
