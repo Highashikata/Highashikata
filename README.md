@@ -17,6 +17,15 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
 
 
 <div align="center">
+  
+### Higashikata's GitHub Stats
+
+[![Bassam Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Highashikata&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+
+<div align="center">
   <h3>My Tech Stack</h3>
   <table>
     <tr>
@@ -47,3 +56,13 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
     </tr>
   </table>
 </div>
+
+
+<div align="center">
+  
+### GitHub Activity
+
+[![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Highashikata&theme=radical&utcOffset=8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
