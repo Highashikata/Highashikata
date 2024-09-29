@@ -24,9 +24,11 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
 
 </div>
 
+🎖️ Certifications:
 
-![Power BI Certified](https://img.shields.io/badge/Power_BI-Certified-blue)
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange)
+![Power BI Certified](https://img.shields.io/badge/Power_BI-Certified-blue?logo=PowerBI&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?logo=AmazonAWS&logoColor=white)
+
 
 
 <div align="center">
