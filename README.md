@@ -25,6 +25,10 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
 </div>
 
 
+![Power BI Certified](https://img.shields.io/badge/Power_BI-Certified-blue)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange)
+
+
 <div align="center">
   <h3>My Tech Stack</h3>
   <table>
