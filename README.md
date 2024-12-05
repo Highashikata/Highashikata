@@ -62,9 +62,14 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         <br>Git
       </td>
+      <td align="center" width="100">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" width="48" height="48" alt="Microsoft Fabric" />
+        <br>Microsoft Fabric
+      </td>
     </tr>
   </table>
 </div>
+
 
 
 
