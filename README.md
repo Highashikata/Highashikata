@@ -59,8 +59,6 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
         <br>Power BI
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         <br>Git
