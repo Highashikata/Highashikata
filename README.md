@@ -35,7 +35,8 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
 
 
 <div align="center">
-  <h3>My Tech Stack</h3>
+  <h2>👨‍💻 My Tech Stack</h2>
+  <p>A showcase of the tools and technologies I work with:</p>
   <table>
     <tr>
       <td align="center" width="100">
@@ -58,13 +59,27 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" alt="Power BI" />
         <br>Power BI
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
         <br>Git
       </td>
       <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoft/microsoft-original.svg" width="48" height="48" alt="Microsoft Fabric" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="48" height="48" alt="Microsoft Fabric Placeholder" />
         <br>Microsoft Fabric
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="48" height="48" alt="Flask" />
+        <br>Flask
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/TensorFlow_Logo.svg" width="48" height="48" alt="TensorFlow" />
+        <br>TensorFlow
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
+        <br>Scikit-Learn
       </td>
     </tr>
   </table>
