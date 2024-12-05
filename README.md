@@ -66,24 +66,13 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
         <br>Git
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="48" height="48" alt="Microsoft Fabric Placeholder" />
+        <img src="https://www.synapx.co.uk/wp-content/uploads/Microsoft_Fabric_2023.png.webp" width="48" height="48" alt="Microsoft Fabric" />
         <br>Microsoft Fabric
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="48" height="48" alt="Flask" />
-        <br>Flask
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/TensorFlow_Logo.svg" width="48" height="48" alt="TensorFlow" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-Learn" />
-        <br>Scikit-Learn
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
