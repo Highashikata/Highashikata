@@ -16,8 +16,10 @@ I am currently an Analytics Engineer with a passion for turning data into action
 📊 Advanced Analytics: Continuously improving my skills in Power BI, SQL, and other data analysis tools to provide deeper insights.
 
 📫 How to reach me
-LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
-Medium: [Data Mediator](https://medium.com/@bassam.data.mediator)
+
+**LinkedIn**: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
+
+**Medium**: [Data Mediator](https://medium.com/@bassam.data.mediator)
 
 
 <div align="center">
