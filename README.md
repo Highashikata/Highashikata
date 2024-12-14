@@ -33,7 +33,7 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?logo=AmazonAWS&logoColor=white)
 
 <div align="center">
-  <img src="pl300certif.png" alt="PL-300 Certification" width="400" />
+  <img src="pl300certif.png" alt="PL-300 Certification" width="150" height="auto" />
 </div>
 
 
