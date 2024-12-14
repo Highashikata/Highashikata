@@ -17,6 +17,7 @@ I am currently an Analytics Engineer with a passion for turning data into action
 
 📫 How to reach me
 LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
+Medium: [Data Mediator](https://medium.com/@bassam.data.mediator)
 
 
 <div align="center">
