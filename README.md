@@ -38,7 +38,7 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
       </td>
       <td align="center">
         <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="auto" />
-        <br>AWS Certified: Cloud Practitioner
+        <br>AWS Certified: Cloud Practitioner (Loading ...)
       </td>
     </tr>
   </table>
