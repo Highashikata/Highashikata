@@ -27,15 +27,21 @@ LinkedIn: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/
 
 </div>
 
-🎖️ Certifications:
+### 🎖️ Certifications:
 
 <div align="center">
-  <img src="pl300certif.png" alt="PL-300 Certification" width="150" height="auto" />
-</div>
-
-(Loading)
-<div align="center">
-  <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="PL-300 Certification" width="150" height="auto" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="pl300certif.png" alt="PL-300 Certification" width="150" height="auto" />
+        <br>Microsoft Certified: Power BI Data Analyst Associate
+      </td>
+      <td align="center">
+        <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="auto" />
+        <br>AWS Certified: Cloud Practitioner
+      </td>
+    </tr>
+  </table>
 </div>
 
 
