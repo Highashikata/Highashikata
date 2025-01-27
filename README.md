@@ -44,8 +44,8 @@ I am currently an Analytics Engineer with a passion for turning data into action
         <br>AWS Certified: Cloud Practitioner (Loading ...)
       </td>
       <td align="center">
-        <img src="dp600Certif.png" alt="DP 600 Certification" width="150" height="auto" />
-        <br>Fabric Analytics Engineer (Loading ...)
+        <img src="dp-600Certif.png" alt="DP 600 Certification" width="150" height="auto" />
+        <br>Microsoft Certified: Fabric Analytics Engineer (Loading ...)
       </td>
     </tr>
   </table>
