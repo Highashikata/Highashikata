@@ -43,6 +43,10 @@ I am currently an Analytics Engineer with a passion for turning data into action
         <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="auto" />
         <br>AWS Certified: Cloud Practitioner (Loading ...)
       </td>
+      <td align="center">
+        <img src="dp600Certif.png" alt="DP 600 Certification" width="150" height="auto" />
+        <br>Fabric Analytics Engineer (Loading ...)
+      </td>
     </tr>
   </table>
 </div>
