@@ -7,13 +7,20 @@ I am currently an Analytics Engineer with a passion for turning data into action
 
 💻 Exploring new technologies: I’m always on the lookout for the latest tools and techniques in data analytics and cloud computing.
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 
-🔍 **AWS Cloud Practitioner**: Gaining foundational knowledge in cloud computing to expand my technical expertise.
+🔍 **AWS Cloud Practitioner**  
+Gaining foundational knowledge in cloud computing to expand my technical expertise.
 
-🔍 **Microsoft Fabric**: Exploring its unified data analytics capabilities to enhance my skills in end-to-end data solutions.
+🔍 **Microsoft Fabric**  
+Exploring its unified data analytics capabilities to enhance my skills in end-to-end data solutions.
 
-📊 Advanced Analytics: Continuously improving my skills in Power BI, SQL, and other data analysis tools to provide deeper insights.
+🔍 **Databricks**  
+Diving into scalable data engineering, machine learning, and analytics using Databricks’ unified platform.
+
+📊 **Advanced Analytics**  
+Continuously improving my skills in Power BI, SQL, and other data analysis tools to provide deeper insights.
+
 
 📫 How to reach me
 
