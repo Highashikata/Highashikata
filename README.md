@@ -97,7 +97,7 @@ Continuously improving my skills in Power BI, SQL, and other data analysis tools
         <br>Microsoft Fabric
       </td>
       <td align="center" width="100">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Databricks_logo.svg" width="48" height="48" alt="Databricks" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Databricks_Logo.svg" width="48" height="48" alt="Databricks" />
         <br>Databricks
       </td>
     </tr>
