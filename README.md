@@ -1,3 +1,68 @@
+## 👋 Hi, I'm Bassam!
+I am currently an Analytics Engineer with a passion for turning data into actionable insights. I hold a [Microsoft Certified: Power BI Data Analyst Associate certification](https://learn.microsoft.com/api/credentials/share/fr-fr/BassamBenidir-2112/D4B4DAC6B147E977?sharingId), and I am currently preparing for the **AWS Cloud Practitioner certification** to further enhance my Cloud Computing skills.
+
+👀 Outside of work I'm a part-time 🏋️‍♂️ Calisthenics, Street Lifting and Muay Thaï Athlete: I love challenging myself with bodyweight exercises and pushing my limits in street lifting.
+
+📚 Reading Philosophy: I'm particularly fascinated by Stoicism, and I enjoy exploring its principles to better understand life and improve myself.
+
+💻 Exploring new technologies: I’m always on the lookout for the latest tools and techniques in data analytics and cloud computing.
+
+### 🌱 I’m currently learning
+
+🔍 **AWS Cloud Practitioner**  
+Gaining foundational knowledge in cloud computing to expand my technical expertise.
+
+🔍 **Microsoft Fabric**  
+Exploring its unified data analytics capabilities to enhance my skills in end-to-end data solutions.
+
+🔍 **Databricks**  
+Diving into scalable data engineering, machine learning, and analytics using Databricks’ unified platform.
+
+📊 **Advanced Analytics**  
+Continuously improving my skills in Power BI, SQL, and other data analysis tools to provide deeper insights.
+
+
+📫 How to reach me
+
+**LinkedIn**: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
+
+**Medium**: [Data Mediator](https://medium.com/@bassam.data.mediator)
+
+
+<div align="center">
+  
+### Higashikata's GitHub Stats
+
+[![Bassam Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Highashikata&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+### 🎖️ Certifications:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="pl300certif.png" alt="PL-300 Certification" width="150" height="auto" />
+        <br>Microsoft Certified: Power BI Data Analyst Associate
+      </td>
+      <td align="center">
+        <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="auto" />
+        <br>AWS Certified: Cloud Practitioner (Loading ...)
+      </td>
+      <td align="center">
+        <img src="dp-600Certif.png" alt="DP 600 Certification" width="150" height="auto" />
+        <br>Microsoft Certified: Fabric Analytics Engineer (Loading ...)
+      </td>
+      <td align="center">
+        <img src="fundamentals-badge-databricks.png" alt="Databricks Fundamentals Lakehouse" width="150" height="auto" />
+        <br>Databricks Fundamentals Lakehouse (Loading ...)
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 <div align="center">
   <h2>👨‍💻 My Tech Stack</h2>
   <p>A showcase of the tools and technologies I work with:</p>
@@ -38,3 +103,5 @@
     </tr>
   </table>
 </div>
+
+![Snake animation](https://github.com/Highashikata/Highashikata/blob/main/github-contribution-grid-snake.svg)
