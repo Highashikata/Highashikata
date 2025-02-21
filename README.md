@@ -54,6 +54,10 @@ Continuously improving my skills in Power BI, SQL, and other data analysis tools
         <img src="dp-600Certif.png" alt="DP 600 Certification" width="150" height="auto" />
         <br>Microsoft Certified: Fabric Analytics Engineer (Loading ...)
       </td>
+      <td align="center">
+        <img src="fundamentals-badge-databricks.png" alt="Databricks Fundamentals Lakehouse" width="150" height="auto" />
+        <br>Databricks Fundamentals Lakehouse (Loading ...)
+      </td>
     </tr>
   </table>
 </div>
@@ -96,13 +100,4 @@ Continuously improving my skills in Power BI, SQL, and other data analysis tools
   </table>
 </div>
 
-
-
-
-
 ![Snake animation](https://github.com/Highashikata/Highashikata/blob/main/github-contribution-grid-snake.svg)
-
-
-
-
-
