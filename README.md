@@ -47,16 +47,16 @@ Continuously improving my skills in Power BI, SQL, and other data analysis tools
         <br>Microsoft Certified: Power BI Data Analyst Associate
       </td>
       <td align="center">
+        <img src="fundamentals-badge-databricks.png" alt="Databricks Fundamentals Lakehouse" width="150" height="auto" />
+        <br>Databricks Fundamentals Lakehouse
+      </td>
+      <td align="center">
         <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="auto" />
         <br>AWS Certified: Cloud Practitioner (Loading ...)
       </td>
       <td align="center">
         <img src="dp-600Certif.png" alt="DP 600 Certification" width="150" height="auto" />
         <br>Microsoft Certified: Fabric Analytics Engineer (Loading ...)
-      </td>
-      <td align="center">
-        <img src="fundamentals-badge-databricks.png" alt="Databricks Fundamentals Lakehouse" width="150" height="auto" />
-        <br>Databricks Fundamentals Lakehouse (Loading ...)
       </td>
     </tr>
   </table>
