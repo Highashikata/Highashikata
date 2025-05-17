@@ -51,6 +51,14 @@ Continuously improving my skills in Power BI, SQL, and other data analysis tools
         <br>Databricks Fundamentals Lakehouse
       </td>
       <td align="center">
+        <img src="fundamentals-badge-generative-IA.png" alt="Databricks Generative AI Fundamentals" width="150" height="auto" />
+        <br>Databricks Generative AI Fundamentals
+      </td>
+      <td align="center">
+        <img src="Databricks-Platform-Administrator-Accreditation.png" alt="Databricks Platform Administrator" width="150" height="auto" />
+        <br>Databricks Platform Administrator
+      </td>
+      <td align="center">
         <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="auto" />
         <br>AWS Certified: Cloud Practitioner (Loading ...)
       </td>
