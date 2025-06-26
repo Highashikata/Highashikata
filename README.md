@@ -7,69 +7,92 @@ I am currently an Analytics Engineer with a passion for turning data into action
 
 💻 Exploring new technologies: I’m always on the lookout for the latest tools and techniques in data analytics and cloud computing.
 
+---
+
 ### 🌱 I’m currently learning
 
-🔍 **AWS Cloud Practitioner**  
-Gaining foundational knowledge in cloud computing to expand my technical expertise.
+- 🔍 **AWS Cloud Practitioner** – Gaining foundational knowledge in cloud computing.
+- 🔍 **Microsoft Fabric** – Exploring unified analytics for end-to-end data solutions.
+- 🔍 **Databricks** – Diving into scalable data engineering and machine learning.
+- 📊 **Advanced Analytics** – Mastering Power BI, SQL, and modern analytics tools.
 
-🔍 **Microsoft Fabric**  
-Exploring its unified data analytics capabilities to enhance my skills in end-to-end data solutions.
+---
 
-🔍 **Databricks**  
-Diving into scalable data engineering, machine learning, and analytics using Databricks’ unified platform.
+### 📫 How to reach me
 
-📊 **Advanced Analytics**  
-Continuously improving my skills in Power BI, SQL, and other data analysis tools to provide deeper insights.
+- **LinkedIn**: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
+- **Medium**: [Data Mediator](https://medium.com/@bassam.data.mediator)
 
-
-📫 How to reach me
-
-**LinkedIn**: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
-
-**Medium**: [Data Mediator](https://medium.com/@bassam.data.mediator)
-
+---
 
 <div align="center">
   
-### Higashikata's GitHub Stats
+### 📊 Higashikata's GitHub Stats
 
 [![Bassam Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Highashikata&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
-### 🎖️ Certifications:
+---
+
+### 🎖️ Certifications
+
+#### 🟦 Microsoft
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img src="pl300certif.png" alt="PL-300 Certification" width="150" height="auto" />
-        <br>Microsoft Certified: Power BI Data Analyst Associate
+        <br>Power BI Data Analyst Associate
       </td>
       <td align="center">
-        <img src="fundamentals-badge-databricks.png" alt="Databricks Fundamentals Lakehouse" width="150" height="auto" />
-        <br>Databricks Fundamentals Lakehouse
-      </td>
-      <td align="center">
-        <img src="fundamentals-badge-generative-IA.png" alt="Databricks Generative AI Fundamentals" width="150" height="auto" />
-        <br>Databricks Generative AI Fundamentals
-      </td>
-      <td align="center">
-        <img src="Databricks-Platform-Administrator-Accreditation.png" alt="Databricks Platform Administrator" width="150" height="auto" />
-        <br>Databricks Platform Administrator
-      </td>
-      <td align="center">
-        <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="auto" />
-        <br>AWS Certified: Cloud Practitioner (Loading ...)
-      </td>
-      <td align="center">
-        <img src="dp-600Certif.png" alt="DP 600 Certification" width="150" height="auto" />
-        <br>Microsoft Certified: Fabric Analytics Engineer (Loading ...)
+        <img src="dp-600Certif.png" alt="DP-600 Certification" width="150" height="auto" />
+        <br>Fabric Analytics Engineer (In Progress)
       </td>
     </tr>
   </table>
 </div>
 
+#### 🔴 Databricks
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="fundamentals-badge-databricks.png" alt="Databricks Fundamentals Lakehouse" width="150" height="auto" />
+        <br>Fundamentals Lakehouse
+      </td>
+      <td align="center">
+        <img src="fundamentals-badge-generative-IA.png" alt="Databricks Generative AI Fundamentals" width="150" height="auto" />
+        <br>Generative AI Fundamentals
+      </td>
+      <td align="center">
+        <img src="Databricks-Platform-Administrator-Accreditation.png" alt="Databricks Platform Administrator" width="150" height="auto" />
+        <br>Platform Administrator
+      </td>
+      <td align="center">
+        <img src="databricks_DA_Associate.png" alt="Databricks Data Analyst Associate" width="150" height="auto" />
+        <br>Data Analyst Associate
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### 🟠 AWS
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="auto" />
+        <br>Cloud Practitioner (In Progress)
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 <div align="center">
   <h2>👨‍💻 My Tech Stack</h2>
@@ -111,5 +134,7 @@ Continuously improving my skills in Power BI, SQL, and other data analysis tools
     </tr>
   </table>
 </div>
+
+---
 
 ![Snake animation](https://github.com/Highashikata/Highashikata/blob/main/github-contribution-grid-snake.svg)
