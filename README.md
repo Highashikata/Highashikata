@@ -134,8 +134,9 @@ I am currently an Analytics Engineer with a passion for turning data into action
       </td>
       <td align="center" width="100">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Databricks_Logo.svg" width="48" height="48" alt="Databricks" />
-        <br>Databricks
-      </td>
+      <br>Databricks
+    </td>
+
     </tr>
   </table>
 </div>
