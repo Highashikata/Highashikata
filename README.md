@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Bassam!
 
-I am currently an Analytics Engineer with a passion for turning data into actionable insights. I hold a [Microsoft Certified: Power BI Data Analyst Associate certification](https://learn.microsoft.com/api/credentials/share/fr-fr/BassamBenidir-2112/D4B4DAC6B147E977?sharingId) and a [Databricks Certified Data Analyst Associate certification](https://credentials.databricks.com/f86ca33d-1008-4722-856e-fd66fb290f5e). I am currently preparing for the **AWS Cloud Practitioner certification** to further enhance my Cloud Computing skills.
+I am currently an Analytics Engineer with a passion for turning data into actionable insights. I hold a [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/fr-fr/BassamBenidir-2112/D4B4DAC6B147E977?sharingId), a [Databricks Certified Data Analyst Associate](https://credentials.databricks.com/f86ca33d-1008-4722-856e-fd66fb290f5e), and an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5fbb9695-a949-497a-8ee9-76cc8f1ac66c/linked_in_profile), enhancing my capabilities in cloud computing and scalable data architecture.
 
 👀 Outside of work I'm a part-time 🏋️‍♂️ Calisthenics, Street Lifting and Muay Thaï Athlete: I love challenging myself with bodyweight exercises and pushing my limits in street lifting.
 
@@ -12,10 +12,9 @@ I am currently an Analytics Engineer with a passion for turning data into action
 
 ### 🌱 I’m currently learning
 
-- 🔍 **AWS Cloud Practitioner** – Gaining foundational knowledge in cloud computing.  
 - 🔍 **Microsoft Fabric** – Exploring unified analytics for end-to-end data solutions.  
 - 🔍 **Databricks** – Diving into scalable data engineering and machine learning.  
-- 📊 **Advanced Analytics** – Mastering Power BI, SQL, and modern analytics tools.  
+- ❄️ **Snowflake** – Learning cloud-based data warehousing and scalable analytics.  
 
 ---
 
@@ -90,8 +89,10 @@ I am currently an Analytics Engineer with a passion for turning data into action
   <table>
     <tr>
       <td align="center">
-        <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="150" />
-        <br>Cloud Practitioner (In Progress)
+        <a href="https://www.credly.com/badges/5fbb9695-a949-497a-8ee9-76cc8f1ac66c/linked_in_profile" target="_blank">
+          <img src="AWS-Certified-Cloud-Practitioner_badge.png" alt="AWS Cloud Practitioner" width="150" height="150" />
+          <br>AWS Cloud Practitioner
+        </a>
       </td>
     </tr>
   </table>
@@ -136,7 +137,6 @@ I am currently an Analytics Engineer with a passion for turning data into action
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Databricks_Logo.svg" width="48" height="48" alt="Databricks" />
       <br>Databricks
     </td>
-
     </tr>
   </table>
 </div>
