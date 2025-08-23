@@ -65,16 +65,22 @@ These certifications strengthen my expertise in **cloud computing**, **data engi
   <table>
     <tr>
       <td align="center">
-        <img src="fundamentals-badge-databricks.png" alt="Databricks Fundamentals" width="150" height="150" />
-        <br>Fundamentals Lakehouse
+        <a href="https://credentials.databricks.com/9f5a4425-9b7a-48da-ba58-eb67b3a0eb47" target="_blank">
+          <img src="fundamentals-badge-databricks.png" alt="Databricks Fundamentals" width="150" height="150" />
+          <br>Lakehouse Fundamentals
+        </a>
       </td>
       <td align="center">
-        <img src="fundamentals-badge-generative-IA.png" alt="Databricks GenAI Fundamentals" width="150" height="150" />
-        <br>Generative AI Fundamentals
+        <a href="https://credentials.databricks.com/44abb1a9-faae-49b6-977c-c5b732c7be05#acc.qFSRU90Q" target="_blank">
+          <img src="fundamentals-badge-generative-IA.png" alt="Databricks GenAI Fundamentals" width="150" height="150" />
+          <br>Generative AI Fundamentals
+        </a>
       </td>
       <td align="center">
-        <img src="Databricks-Platform-Administrator-Accreditation.png" alt="Databricks Admin" width="150" height="150" />
-        <br>Platform Administrator
+        <a href="https://credentials.databricks.com/98bc0192-ea02-471d-9711-cf8bbd61fd10#acc.4SGxRem7" target="_blank">
+          <img src="Databricks-Platform-Administrator-Accreditation.png" alt="Databricks Admin" width="150" height="150" />
+          <br>Platform Administrator
+        </a>
       </td>
       <td align="center">
         <a href="https://credentials.databricks.com/f86ca33d-1008-4722-856e-fd66fb290f5e" target="_blank">
