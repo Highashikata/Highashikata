@@ -1,9 +1,7 @@
 ## 👋 Hi, I'm Bassam!
 
 I am currently an **Analytics Engineer** with a passion for turning data into actionable insights.  
-I hold a [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/fr-fr/BassamBenidir-2112/D4B4DAC6B147E977?sharingId), a [Databricks Certified Data Analyst Associate](https://credentials.databricks.com/f86ca33d-1008-4722-856e-fd66fb290f5e), a [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/92f14270-89a6-4b58-8e03-a1f3486e538e), and an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5fbb9695-a949-497a-8ee9-76cc8f1ac66c/linked_in_profile).  
-
-These certifications strengthen my expertise in **cloud computing**, **data engineering**, and **scalable data architecture**.
+I hold certifications from **Microsoft, Databricks, and AWS**, strengthening my expertise in **cloud computing**, **data engineering**, and **scalable analytics architectures**.  
 
 👀 Outside of work, I’m a part-time 🏋️‍♂️ **Calisthenics, Street Lifting, and Muay Thaï Athlete**.  
 📚 Passionate about **Stoicism**, I apply its principles to improve myself both in life and in work.  
@@ -13,11 +11,8 @@ These certifications strengthen my expertise in **cloud computing**, **data engi
 
 ### 🌱 I’m currently learning
 
-- 🔍 **Microsoft Fabric** – Unified analytics for end-to-end solutions.  
-- 🔍 **Databricks** – Advanced data engineering & machine learning.  
-- ❄️ **Snowflake** – Cloud-based data warehousing (In Progress).  
-- ☁️ **Google Cloud Professional Data Engineer** – Preparing for certification (In Progress).  
 - 🟦 **BigQuery** – Deep dive into **optimization, FinOps, and advanced SQL analytics**.  
+- 🔍 Exploring **new paradigms in multi-cloud data engineering** (Fabric, Snowflake, Google Cloud).  
 
 ---
 
@@ -40,7 +35,9 @@ These certifications strengthen my expertise in **cloud computing**, **data engi
 
 ### 🎖️ Certifications
 
-#### 🟦 Microsoft
+#### ✅ Obtained
+
+##### 🟦 Microsoft
 
 <div align="center">
   <table>
@@ -51,15 +48,11 @@ These certifications strengthen my expertise in **cloud computing**, **data engi
           <br>Power BI Data Analyst Associate
         </a>
       </td>
-      <td align="center">
-        <img src="dp-600Certif.png" alt="DP-600" width="150" height="150" />
-        <br>Fabric Analytics Engineer (In Progress)
-      </td>
     </tr>
   </table>
 </div>
 
-#### 🔴 Databricks
+##### 🔴 Databricks
 
 <div align="center">
   <table>
@@ -98,7 +91,7 @@ These certifications strengthen my expertise in **cloud computing**, **data engi
   </table>
 </div>
 
-#### 🟠 AWS
+##### 🟠 AWS
 
 <div align="center">
   <table>
@@ -113,27 +106,24 @@ These certifications strengthen my expertise in **cloud computing**, **data engi
   </table>
 </div>
 
-#### ❄️ Snowflake
+---
+
+#### 🚀 Currently Preparing
 
 <div align="center">
   <table>
     <tr>
+      <td align="center">
+        <img src="dp-600Certif.png" alt="DP-600" width="150" height="150" />
+        <br>Microsoft Fabric Analytics Engineer
+      </td>
       <td align="center">
         <img src="SnowProCore.png" alt="SnowPro Core" width="150" height="150" />
-        <br>SnowPro Core (In Progress)
+        <br>SnowPro Core
       </td>
-    </tr>
-  </table>
-</div>
-
-#### ☁️ Google Cloud
-
-<div align="center">
-  <table>
-    <tr>
       <td align="center">
         <img src="GCP-DataEngineer.png" alt="Google Cloud Data Engineer" width="150" height="150" />
-        <br>Professional Data Engineer (In Progress)
+        <br>Google Cloud Professional Data Engineer
       </td>
     </tr>
   </table>
