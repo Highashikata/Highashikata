@@ -1,27 +1,30 @@
 ## 👋 Hi, I'm Bassam!
 
-I am currently an Analytics Engineer with a passion for turning data into actionable insights. I hold a [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/fr-fr/BassamBenidir-2112/D4B4DAC6B147E977?sharingId), a [Databricks Certified Data Analyst Associate](https://credentials.databricks.com/f86ca33d-1008-4722-856e-fd66fb290f5e), and an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5fbb9695-a949-497a-8ee9-76cc8f1ac66c/linked_in_profile), enhancing my capabilities in cloud computing and scalable data architecture.
+I am currently an **Analytics Engineer** with a passion for turning data into actionable insights.  
+I hold a [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/fr-fr/BassamBenidir-2112/D4B4DAC6B147E977?sharingId), a [Databricks Certified Data Analyst Associate](https://credentials.databricks.com/f86ca33d-1008-4722-856e-fd66fb290f5e), a [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/92f14270-89a6-4b58-8e03-a1f3486e538e), and an [AWS Certified Cloud Practitioner](https://www.credly.com/badges/5fbb9695-a949-497a-8ee9-76cc8f1ac66c/linked_in_profile).  
 
-👀 Outside of work I'm a part-time 🏋️‍♂️ Calisthenics, Street Lifting and Muay Thaï Athlete: I love challenging myself with bodyweight exercises and pushing my limits in street lifting.
+These certifications strengthen my expertise in **cloud computing**, **data engineering**, and **scalable data architecture**.
 
-📚 Reading Philosophy: I'm particularly fascinated by Stoicism, and I enjoy exploring its principles to better understand life and improve myself.
-
-💻 Exploring new technologies: I’m always on the lookout for the latest tools and techniques in data analytics and cloud computing.
+👀 Outside of work, I’m a part-time 🏋️‍♂️ **Calisthenics, Street Lifting, and Muay Thaï Athlete**.  
+📚 Passionate about **Stoicism**, I apply its principles to improve myself both in life and in work.  
+💻 Always exploring new technologies to stay at the cutting edge of **data analytics** and **cloud engineering**.
 
 ---
 
 ### 🌱 I’m currently learning
 
-- 🔍 **Microsoft Fabric** – Exploring unified analytics for end-to-end data solutions.  
-- 🔍 **Databricks** – Diving into scalable data engineering and machine learning.  
-- ❄️ **Snowflake** – Learning cloud-based data warehousing and scalable analytics.  
+- 🔍 **Microsoft Fabric** – Unified analytics for end-to-end solutions.  
+- 🔍 **Databricks** – Advanced data engineering & machine learning.  
+- ❄️ **Snowflake** – Cloud-based data warehousing (In Progress).  
+- ☁️ **Google Cloud Professional Data Engineer** – Preparing for certification (In Progress).  
+- 🟦 **BigQuery** – Deep dive into **optimization, FinOps, and advanced SQL analytics**.  
 
 ---
 
 ### 📫 How to reach me
 
 - **LinkedIn**: [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)  
-- **Medium**: [Data Mediator](https://medium.com/@bassam.data.mediator)
+- **Medium**: [Data Mediator](https://medium.com/@bassam.data.mediator)  
 
 ---
 
@@ -80,8 +83,10 @@ I am currently an Analytics Engineer with a passion for turning data into action
         </a>
       </td>
       <td align="center">
-        <img src="DBDE-associate-badge-de.png" alt="Databricks Data Engineer Associate" width="150" height="150" />
-        <br>Data Engineer Associate (In Progress)
+        <a href="https://credentials.databricks.com/92f14270-89a6-4b58-8e03-a1f3486e538e" target="_blank">
+          <img src="DBDE-associate-badge-de.png" alt="Databricks Data Engineer Associate" width="150" height="150" />
+          <br>Data Engineer Associate
+        </a>
       </td>
     </tr>
   </table>
@@ -110,6 +115,19 @@ I am currently an Analytics Engineer with a passion for turning data into action
       <td align="center">
         <img src="SnowProCore.png" alt="SnowPro Core" width="150" height="150" />
         <br>SnowPro Core (In Progress)
+      </td>
+    </tr>
+  </table>
+</div>
+
+#### ☁️ Google Cloud
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="GCP-DataEngineer.png" alt="Google Cloud Data Engineer" width="150" height="150" />
+        <br>Professional Data Engineer (In Progress)
       </td>
     </tr>
   </table>
