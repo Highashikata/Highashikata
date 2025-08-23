@@ -5,6 +5,7 @@ I hold certifications from **Microsoft, Databricks, and AWS**, strengthening my 
 
 👀 Outside of work, I’m a part-time 🏋️‍♂️ **Calisthenics, Street Lifting, and Muay Thaï Athlete**.  
 📚 Passionate about **Stoicism**, I apply its principles to improve myself both in life and in work.  
+✍️ I also write articles on **data, sports, discipline, and philosophy** under my brand [**Data Mediator**](https://medium.com/@bassam.data.mediator), where I connect technical skills with lifestyle, focus, and personal growth.  
 💻 Always exploring new technologies to stay at the cutting edge of **data analytics** and **cloud engineering**.
 
 ---
