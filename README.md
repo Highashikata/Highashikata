@@ -1,15 +1,15 @@
 
 ## 👋 Hi, I'm Bassam!
 
-I'm an **Analytics Engineer** passionate about transforming data into actionable insights and building scalable, reliable analytics solutions.
+I'm an **Analytics Engineer** passionate about transforming raw data into actionable insights and building scalable, reliable analytics solutions.
 
-I hold certifications from **Microsoft, Databricks, and AWS**, with expertise spanning **Business Intelligence, Data Engineering, Cloud Computing, and Analytics Architecture**.
+Certified in **Microsoft Power BI, Databricks, and AWS**, with a strong interest in **Data Engineering, Cloud Computing, Business Intelligence, and Analytics Architecture**.
 
 🏋️ **Beyond Data:** Calisthenics, Street Lifting & Muay Thai.
 
 📚 **Philosophy:** Passionate about Stoicism, discipline, and continuous self-improvement.
 
-✍️ **Writing:** I share articles on Data, Technology, Sports, and Philosophy through [**Data Mediator**](https://medium.com/@bassam.data.mediator).
+✍️ **Writing:** Sharing insights on Data, Technology, Sports, and Philosophy through [**Data Mediator**](https://medium.com/@bassam.data.mediator).
 
 💻 Always exploring new technologies and modern approaches to data analytics and cloud engineering.
 
@@ -18,14 +18,15 @@ I hold certifications from **Microsoft, Databricks, and AWS**, with expertise sp
 ### 🌱 Currently Exploring
 
 - 🟦 **Google BigQuery** — Advanced SQL, query optimization, performance tuning & FinOps.
-- 🔍 **Modern Data Stack** — Exploring Google Cloud, Microsoft Fabric, Snowflake & multi-cloud data architectures.
+- 🔍 **Modern Data Stack** — Google Cloud, Microsoft Fabric, Snowflake & multi-cloud data architectures.
 
 ---
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [Bassam BENIDIR](https://www.linkedin.com/in/bassam-benidir-587b52197/)
-- **Medium:** [Data Mediator](https://medium.com/@bassam.data.mediator)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bassam_BENIDIR-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassam-benidir-587b52197/)
+
+[![Medium](https://img.shields.io/badge/Medium-Data_Mediator-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@bassam.data.mediator)
 
 ---
 
@@ -33,8 +34,24 @@ I hold certifications from **Microsoft, Databricks, and AWS**, with expertise sp
 
 <div align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Highashikata&theme=radical"
-    alt="GitHub Stats"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Highashikata&theme=github_dark"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Highashikata&theme=github_dark"
+    width="48%"
+    alt="Most Used Languages"
+  />
+</div>
+
+### 🌐 3D Contribution Graph
+
+<div align="center">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="3D GitHub Contribution Graph"
+    width="95%"
   />
 </div>
 
