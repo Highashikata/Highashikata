@@ -46,7 +46,7 @@ Certified in **Microsoft Power BI, Databricks, and AWS**, with a strong interest
 </div>
 
 ### 🌐 3D Contribution Graph
-
+<!-- 
 <div align="center">
   <img
     src="./profile-3d-contrib/profile-green-animate.svg"
@@ -54,7 +54,7 @@ Certified in **Microsoft Power BI, Databricks, and AWS**, with a strong interest
     width="95%"
   />
 </div>
-
+-->
 ---
 
 ### 🎖️ Certifications & Badges
